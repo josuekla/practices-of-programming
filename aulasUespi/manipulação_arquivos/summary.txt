@@ -1,0 +1,26 @@
+### Relatório de Análise de Arquivos ###
+
+file number: 1
+	file name: files_outputs/test.txt
+	Qnt of lines: 3
+	Total words: 26
+	Average words per line: 8.67
+========================================
+file number: 2
+	file name: files_outputs/acopy.txt
+	Qnt of lines: 1
+	Total words: 8
+	Average words per line: 8.00
+========================================
+file number: 3
+	file name: files_outputs/review.txt
+	Qnt of lines: 1
+	Total words: 6
+	Average words per line: 6.00
+========================================
+file number: 4
+	file name: files_outputs/review.py
+	Qnt of lines: 1
+	Total words: 1
+	Average words per line: 1.00
+========================================
